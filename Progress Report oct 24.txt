@@ -1,0 +1,165 @@
+﻿1. Home - Mary
+   1. Screenshots: 
+  
+
+   1. Link: https://dev.anteater.tv/
+   2. Update:
+      1. Past week
+        1. In the past week, I insert the photo slider on home page. 
+2. I insert the latest ATV youtube video under the slider. It can be played on the home page. 
+3. I added the social media links under the slider. Originally I planned to add  them on the header but the free version of the theme only allows me to add social media other than instagram. I tried to find other ways but they do not work under this theme. That’s why I insert it under the slider. 
+4. I also insert a list type calendar at the end of the page so that students can quickly review what is happening recently. This calendar is synchronized with the calendar on Calendar page.
+      1. Future week
+        1. I will make changes due to your requirement if there is any.
+   1. Questions?
+1. About -KiHoon
+   1. Screenshots:  
+   2. Link:  https://dev.anteater.tv/about/
+   3. Update:
+   1. Past week
+   1. Implement basic information about the about page
+   2. Exploring various examples of about page idea and trying to make something more vibrant and stand out 
+   1. Future week
+   1. Finishing the design of the about page and implemented to the the page.  
+   1. Questions?
+Can I get some pictures that you want to put into the about page. Group photos or picture of the president.
+   1. Departments-Grace
+   1. Screenshots:  
+   2. Link: https://dev.anteater.tv/departments/
+   3. Update:
+      1. Past week： 
+      1. Create the basic structure.
+      2. Add link to each picture which can redirect to the page of each department.
+      1. Future week: 
+      1. Add a mouseover effect for to show the short description for every image. 
+      2. Adjust the paragraph above the pictures.
+      3. Need five pictures that can display the characteristics for every department. The pictures in the screenshot are from uci.edu for simulating the effect so I need legal pictures.
+      4. Need president check if the description above the picture is appropriate. If not, need a new description.
+      5. Maintain the consistency for department page.
+      1. Questions?
+      1. Does the format fit your expectation?
+      2. When can get the pictures?
+
+
+      1. Arts -Jacob
+      1. Screenshots: Capture.JPG 
+      2. Link: https://dev.anteater.tv/departments/arts/
+      3. Update:
+         1. Past week: Explored the functionality of Wordpress and experimented with CSS plugins on WordPress
+         2. Future week: Organize and stylize the page so that it can look visually appealing
+         1. Questions?
+         1.  Where should the logos for the pages should go?
+         1. Sports-Mandy
+         1. Screenshots: Screen Shot 2017-10-24 at 9.01.54 PM.png 
+         2. Link:https://dev.anteater.tv/sports/
+         3. Update:
+            1. Past week:
+            1. Created a basic web page for sports department
+            1. Future week
+            1. Need to add sports logo on the page
+            2. Need more photos and videos from Anteater TV
+            3. Add calendar of sports page
+            1. Questions?
+            1. When will we receive more photos?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1. Health and Wellness -Jacob
+            1. Screenshots: Capture1.JPG 
+            2. Link: https://dev.anteater.tv/departments/arts/
+            3. Update:
+               1. Past week: Included the content description of the page and experimented with Wordpress features
+               2. Future week: By using plugins, making the thumbnails of the video links visually appealing.
+               1. Questions?
+               1. Is there any specific way do you want the videos to be presented on the website?
+               1. Campus Life/News -KiHoon
+               1. Screenshots:  
+               2. Link:  https://dev.anteater.tv/departments/campus-lifenews/
+               3. Update:
+                  1. Past week - 
+                  1. wrote down the basic information about the website and what needs to in the page.  
+                  2. Embed youtube gallery page for the UCI Campus Life playlsit
+                  1. Future week - Make the videos look better than default by using plugins.  
+                  1. Questions?
+Does campus life include
+                  * UCI Music
+                  * UCI illuminations
+                  1. Politics -Grace
+                  1. Screenshots:  
+                  2. Link:https://dev.anteater.tv/departments/politics/
+                  3. Update:
+                     1. Past week：
+                     1. Create a basic page for Politics department.
+                     1. Future week:
+                     1. Need short articles/description(something like interview for explaining the campaign or protest), pictures and videos related to this part.
+                     2. Add events calendar for any campaigns, protests, and rallies.
+                     1. Questions?
+                     1. Calendar -Mary
+                     1. Screenshots:
+  
+
+                     1. Link: https://dev.anteater.tv/calendar/
+                     2. Update:
+                     1. Past week
+        1. I linked my own Google calendar to the calendar page, just want to test if this works. I created two test events to see how it shows on the calendar. It only shows the months that have events but I think that’s enough.
+                     1. Future week
+        1. In the future weeks, I will change it to the anteaterTV calendar when I get the information I need. 
+2. I will do some change due to your requirements if there is any. 
+                     1. Questions?
+                     1. Contact-Mandy
+                     1. Screenshots: Screen Shot 2017-10-24 at 8.48.47 PM.png 
+                     2. Link: https://dev.anteater.tv/contact/
+                     3. Update:
+                        1. Past week
+                        1. In the past week, I used a plugin called contact forms to create a form.  Visitors of the website can simply fill out the form to contact Anteater TV to schedule a video request.
+                        1. Future week
+                        1. Will add information of people that listed on the material doc.
+                        2. Change the format of the form
+                        3. Trying to figure out to change the color of the submit button
+                        1. Questions?
+                        1. When visitors are filling out the form, which of those information are required to fill out in order to submit the form?  Can some of this to be left in blank?  Can user select more than one options?
+        Highlight it if it is a required option.
+        Underline it if it can be left blank.
+        Bold it if user can select multiple options
+                        1. First name 
+                        2. Last name
+                        3. Email address
+                        4. Organization
+                        5. Department
+                        6. Date of event
+                        7. Video Style
