@@ -1,0 +1,108 @@
+Project Name: 		AnteaterTV Website
+Team Name:  		Team1
+Team Members: 	Mandy Weng
+		   	Jacob Jo
+			Chunyi Zhu
+			Mengfan Wang
+			Ki Hoon Kim
+Date: 	                        Oct. 17th, 2017
+Table of contents:
+Home Page
+Department section Page
+Calendar Page
+About Page
+Contact Page
+
+Revision history: Not applicable 
+
+Statement of work
+	Our objective is to make a website for Anteater TV that serves the function of updating events information, updating photos and videos and giving a way to contact Anteater TV. Nine pages are required to be included in the website. In details, the calendar page should be able to update events happening on campus. The contact page should be a form that can be delivered to Anteater TV. Anteater TV social media posts should be updated on the home page. The basic requirements need to be done in five weeks. And the rest of the time should be used to polish the website.
+
+Constraints: 
+Limited web design resources from using Wordpress
+Lack of UX design process for the website
+Fully understanding the client’s needs and goals for the website
+
+Assumptions
+As a team, we will be working closely with Anteater TV 
+Making progress every week
+Hosting for the website will be handled by Anteater TV
+UCI Student Media will provide future maintenance for the website
+The Anteater TV is hosted on UCI’s server
+
+Personas / Scenarios: 
+Persona 1 / Scenario 1
+Jonathan Byers:
+Background:
+Age: 20
+3rd year Sociology student at UCI
+Member of ASUCI
+Enjoys going to entertainment events
+Quote: “I want to get more students to be involved for UCI events and make them enjoyable”
+Jonathan is a full time student at UCI majoring in Sociology. As a sociology major, he is interested in learning how diverse groups of people organize and associate with one another. For his hobby, he often goes to concerts, sports events, art shows and plays. During those events, he often takes photos and videos and edit them and uploads them onto his social media. For his role at ASUCI, he is a content creation commissioner. He focuses on organizing entertaining events for students at UCI so he goes on AnteaterTV website to see how the events are seen by UCI students as well as he hopes to achieve improving UCI’s reputation for providing quality entertainment for the students. Sometimes he discusses with AnteaterTV and provide them images and videos if they are needed. He also follows AnteaterTV’s social media outlets including YouTube, Instagram and Tumblr.
+ 
+Persona 2  / Scenario 2
+Ann Crook
+Background: 
+4th year chemistry student at UCI
+Age: 21
+President of Circle K
+Love to participate in community service
+ 
+Ann is a 21 years old students at UC Irvine who is also a president of a student organization at UC Irvine.  She is in charge of organization recruitment for winter quarter 2017.  She would find a campus organization to help recording some of their fall events in order to show it on the fall recruitment video.  She finds out a school organization called AnteaterTV can help them with video recording, so she searched AnteaterTV up on the internet and found the website of Anteater.  She browsed on the website to see the past videos that AnteaterTV took for other events.  They decided to contact with the staff of AnteaterTV.  She navigated to the contact page and filled out his information, email address, and video request.  After she submitted the phone, she will be contacted by a staff from the AnteaterTV and follow up on her case.
+	
+ 
+Functional requirements (the big part):
+Use case diagram (2 people, and the team join later) 
+
+Use cases / Use case stories (**)
+Use Cases
+Student
+Students are the main audience of this website.  They can consume university’s event by photos and videos.  Students can also know about the upcoming events that Anteater Tv is shooting for next week or month.  Students can also contact Anteater TV to request a project to shoot.  Student job is to experience the website’s content and know about the current event on campus.
+
+
+Student Interface
+ Check out photos
+A student can click on photo tabs to get access to photos of the current events happening in UCI and also see the photos from the past events.
+Check out videos
+A student can get access to videos by pressing embedded player on
+the website or go directly to youtube.
+Check out event in Calendar
+Student can look at the calendar located on the home of the website or click on calendar tab to get access to current event of the Anteater TV
+Contact Anteater TV
+A student can go to the contact tab and enter required contact information and a short explanation of the reason for contacting  to the Anteater TV.  Contact tab will send the message to Anteater Tv department.
+Organization
+Organization are the client that wants to contact Anteater TV for business.  They can go to contact section get in touch with Anteater TV.
+Organization Interface
+Contact Anteater TV
+Organization can send message to Anteater TV on contact page if they want Anteater TV to film for them. They will fill out a form and the form will be sent to Anteater TV automatically.
+Anteater TV
+Anteater Tv is responsible for updating the website regularly with their contents.  They can upload the photos on UCI’s server, but the videos need to be linked from youtube.  Anteater Tv also needs to able communicate with anyone who wishes by using the contact page.   
+Anteater TV Interface
+Link videos
+Anteater TV can upload the videos to youtube and embedded to their website post.
+Upload new pictures
+Anteater TV uses UCI server to upload the pictures of the event and post it on the website.
+Update events information
+Anteater TV uses the calendar to reveal the schedules of their upcoming shoots and let the students know about the events.  
+User Stories
+As a student, I want to check out calendar so that I know what is happening on campus.
+As a student, I want to see photos and videos so that I can see the campus and events happened before. 
+As a organization, I want to contact Anteater TV so that I can ask them to film video for us.
+As Anteater TV, we want to link videos so that students can see videos from website.
+As Anteater TV, we want to upload new pictures so that students can see the latest picture of the school.
+As Anteater TV, we want to update events information so that students know what is going to happen on campus. 
+As Anteater TV, we want to see message from organizations so that we know their needs and are able to contact them.
+Non-functional requirements:
+Performance
+The element our website includes in order to assess the performance is response time. A slow website may result user satisfaction reduction, findability damage, and decrease of accessibility. For response time, our website would closely try to make the web redirection and picture display react instantaneously. Since most of the contents of the website are pictures and videos, it’s significant to reduce the loading time to improve user satisfaction and experience. If user’s host internet is in an average network speed, the ideal speed would be controlled at least in 1 second and try to reach 0.1 second. 
+Availability
+Availability is the percentage of time a system or component is available to use. Since Anteater TV Website will be hosted on the campus server, the percentage of uptime it strives could be guaranteed at least 99.99%. When users want to visit the website, they will not encounter any obstacles and difficulties. 
+Usability
+There are three relevant goals along with the usability. They are effectiveness, efficiency and utility. In regard to effectiveness, the website could be easily used by users. As a virtual media website,  Anteater TV Website would provide a user-friendly interface and simple plugin Youtube videos to avoid cumbersome operation. The website would maintain a user-centered design which can lead  to more visits and less confusion for watching contents and checking calendar. For efficiency, the website would not include any redundant function or link. Each tab can directly lead to relevant content and only key photos showed on the front page. Utility presents in how the website provide plugin videos. When user first visit the website and want to watch videos, they will only click on the play button. They don’t have to click on any link and leave the page.
+Maintainability
+Website would be slow or crashing by several reasons, such as overload, memory leak, or control conflicts. It’s important to improve maintainability to avoid resource waste, website crash, and exploitation of vulnerabilities. Technical staff is able to be responsible for the website maintenance to keep the website working fluidly and give better consistency of the website. The website would be regularly updated for content changing, bug fixes, and improvement of usability. 
+Privacy
+Since the website contains a contact form where the visitors of the website will leave their information in the form and wait to be contacted later by Anteater TV, the information should protected.  Once the form has been submit, an email will be sent to Anteater TV staff. The system should not store the contact information into the database.
+ 
+
